@@ -5,6 +5,6 @@ Hi there 👋
 - 🌱 I’m currently learning IoT, Embedded Tech, DSA, DBMS...
 - 👯 I’m looking on a good career in Developer  or  Software engineer  or  IoT developer  or  Embedded developer role ...
 
-- 📫 How to reach me: kamaleshjeeva@gmail.com 
+- 📫 How to reach me: kamaleshjeeva72@gmail.com 
 
 
